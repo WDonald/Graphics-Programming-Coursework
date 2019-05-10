@@ -1,0 +1,15 @@
+﻿  Audio.cpp
+  Display.cpp
+  main.cpp
+  MainGame.cpp
+c:\users\hp lappie\desktop\graphics programming\graphics coursework\graphics coursework(william donald)\lab1\maingame.cpp(332): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hp lappie\desktop\graphics programming\graphics coursework\graphics coursework(william donald)\lab1\maingame.cpp(333): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  obj_loader.cpp
+c:\users\hp lappie\desktop\graphics programming\graphics coursework\graphics coursework(william donald)\lab1\obj_loader.cpp(378): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Overlay.cpp
+  Shader.cpp
+  Texture.cpp
+  Generating Code...
+  stb_image.c
+  Lab1.vcxproj -> C:\Users\HP Lappie\Desktop\Graphics programming\Graphics Coursework\Graphics Coursework(William Donald)\Debug\Lab1.exe
